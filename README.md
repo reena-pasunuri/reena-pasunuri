@@ -1,6 +1,6 @@
 Hello! I'm Reena Pasunuri
 
-I'm an ISTQB Certified Senior Test Engineer with over five years of experience ensuring software quality across various platforms and domains. My expertise spans manual and automation testing for web, mobile, and API applications, with a strong understanding of the entire software development and testing lifecycle (SDLC, STLC). I collaborate closely with developers, product managers, and stakeholders to deliver reliable, high-quality software that meets user needs.
+I'm an ISTQB Certified Test Engineer ensuring software quality across various platforms and domains. My expertise spans manual and automation testing for web, mobile, and API applications, with a strong understanding of the entire software development and testing lifecycle (SDLC, STLC). I collaborate closely with developers, product managers, and stakeholders to deliver reliable, high-quality software that meets user needs.
 
 My Journey
 
