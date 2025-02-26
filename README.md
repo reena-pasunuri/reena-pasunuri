@@ -16,9 +16,7 @@ Featured Projects
 
 E-commerce (Retail)                  Selenium + Java + TestNG                    selenium-ecommerce-automation
 
-Banking                              Playwright + JavaScript                     playwright-banking-app
-
-Healthcare                           Cypress + TypeScript                        cypress-healthcare-testing
+Banking                              Playwright + TypeScript                     playwright-banking-app
 
 Online Shopping (Mobile)             Appium + Java + TestNG                      appium-shopping-app
 
@@ -32,8 +30,7 @@ Each repository contains:
 
 What I'm Currently Learning
 
-✅ Playwright with JavaScript – Automating banking applications
-✅ Cypress with TypeScript – Healthcare domain testing
+✅ Playwright with TypeScript – Automating banking applications
 ✅ Cloud-based performance testing – BlazeMeter & JMeter
 ✅ Expanding my GitHub portfolio – Adding new test automation projects
 
