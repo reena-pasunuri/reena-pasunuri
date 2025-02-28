@@ -24,21 +24,6 @@ This GitHub portfolio showcases my hands-on expertise in building robust, mainta
 ✔ CI/CD pipeline integration  
 
 
-Featured Projects
-
-    Domain                                Tool & Language                               Repository
-
-E-commerce (Retail)                  Selenium + Java + TestNG                    selenium-ecommerce-automation
-
-Banking                              Playwright + TypeScript                     playwright-banking-app
-
-Online Shopping (Mobile)             Appium + Java + TestNG                      appium-shopping-app
-
-API Testing (Generic)                Postman + REST Assured (Java)               api-testing-framework
-
-Performance Testing                  JMeter + BlazeMeter                         performance-testing-jmeter
-
-
 Each repository contains:
 ✔ Test cases and execution scripts
 ✔ Automation framework setup
