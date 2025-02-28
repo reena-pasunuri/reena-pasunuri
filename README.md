@@ -1,14 +1,28 @@
-Hello! I'm Reena Pasunuri
+Hello! I'm Reena Pasunuri 👋
 
-I'm an ISTQB Certified Test Engineer ensuring software quality across various platforms and domains. My expertise spans manual and automation testing for web, mobile, and API applications, with a strong understanding of the entire software development and testing lifecycle (SDLC, STLC). I collaborate closely with developers, product managers, and stakeholders to deliver reliable, high-quality software that meets user needs.
+I'm an ISTQB Certified Test Engineer with 5+ years of experience in software testing, specializing in automation testing for web, mobile, and API applications. My expertise includes:
+
+✔ Selenium with Java for robust web automation  
+✔ Playwright with TypeScript for modern UI automation  
+✔ API Testing using Rest Assured & Postman  
+✔ CI/CD Integration with Jenkins & GitHub Actions  
+✔ Performance Testing with JMeter & BlazeMeter
+
+I thrive in Agile environments, collaborating with developers, product managers, and stakeholders to deliver high-quality software solutions.
+
 
 My Journey
+I recently completed an MSc in Computer Science in the UK, which helped expand my technical expertise and adaptability. My experience has reinforced my problem-solving skills, critical thinking, and resilience, which I apply to every software testing project.
 
-I recently completed an MSc in Computer Science in the UK, which helped me expand my technical expertise and adaptability. This experience reinforced my problem-solving skills, critical thinking, and resilience, which I apply to every project in software testing.
 
-Why I Created This Project
+Why I Created This repository
 
-This repository showcases my hands-on expertise in building robust, maintainable test automation frameworks. Each project is domain-specific and demonstrates my experience with various automation tools and programming languages.
+This GitHub portfolio showcases my hands-on expertise in building robust, maintainable test automation frameworks. Each project demonstrates real-world scenarios with industry best practices, covering:
+✔ Web, Mobile, and API automation  
+✔ Test framework setup and structure  
+✔ Execution reports, logs, and documentation  
+✔ CI/CD pipeline integration  
+
 
 Featured Projects
 
@@ -26,7 +40,10 @@ Performance Testing                  JMeter + BlazeMeter                        
 
 
 Each repository contains:
-✔ Test cases and execution scripts✔ Automation framework setup✔ Reports & logs✔ Best practices and documentation
+✔ Test cases and execution scripts
+✔ Automation framework setup
+✔ Reports & logs
+✔ Best practices and documentation
 
 What I'm Currently Learning
 
