@@ -15,7 +15,7 @@ My Journey-
 I have worked on and handled various projects, gaining solid experience in both manual and automation testing. Through this journey, I’ve strengthened my problem-solving abilities, critical thinking, and resilience, qualities I consistently apply to ensure the quality and reliability of every software testing project I take on.
 
 
-Why I Created This repository
+Why I Created This repository-
 
 This GitHub portfolio showcases my hands-on expertise in building robust, maintainable test automation frameworks. Each project demonstrates real-world scenarios with industry best practices, covering:
 ✔ Web, Mobile, and API automation  
@@ -30,7 +30,7 @@ Each repository contains:
 ✔ Reports & logs
 ✔ Best practices and documentation
 
-What I'm Currently Learning
+What I'm Currently Learning-
 
 ✅ Playwright with TypeScript – Automating banking applications
 ✅ Cloud-based performance testing – BlazeMeter & JMeter
