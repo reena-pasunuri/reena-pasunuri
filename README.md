@@ -34,7 +34,7 @@ Each repository contains:
 What I'm Currently Learning-
 
 ✅ Playwright with TypeScript – Automating a demo applications
-✅ Learning Cypress- I love to keep myself updated with latest tools and technologies
+✅ Learning Cypress- I love to learn and keep myself updated with latest tools and technologies
 ✅ Cloud-based performance testing – BlazeMeter & JMeter
 ✅ Expanding my GitHub portfolio – Adding new test automation projects
 
