@@ -11,8 +11,8 @@ I'm an ISTQB Certified Test Engineer with 5+ years of experience in software tes
 I thrive in Agile environments, collaborating with developers, product managers, and stakeholders to deliver high-quality software solutions.
 
 
-My Journey
-I recently completed an MSc in Computer Science in the UK, which helped expand my technical expertise and adaptability. My experience has reinforced my problem-solving skills, critical thinking, and resilience, which I apply to every software testing project.
+My Journey- 
+I have worked on and handled various projects, gaining solid experience in both manual and automation testing. Through this journey, I’ve strengthened my problem-solving abilities, critical thinking, and resilience, qualities I consistently apply to ensure the quality and reliability of every software testing project I take on.
 
 
 Why I Created This repository
