@@ -3,6 +3,7 @@ Hello! I'm Reena Pasunuri 👋
 I'm an ISTQB Certified Software Test Engineer specializing in automation testing for web, mobile, desktop and API applications. 
 
 My expertise includes-
+
 ✔ Selenium with Java for robust web automation  
 ✔ Playwright with TypeScript for modern UI automation  
 ✔ API Testing using Rest Assured & Postman  
