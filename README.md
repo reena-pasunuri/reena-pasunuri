@@ -20,6 +20,7 @@ I have worked on and handled various projects, gaining solid experience in both 
 Why I Created This repository-
 
 This GitHub portfolio showcases my hands-on expertise in building robust, maintainable test automation frameworks. Each project demonstrates real-world scenarios with industry best practices, covering:
+
 ✔ Web, Mobile, and API automation  
 ✔ Test framework setup and structure  
 ✔ Execution reports, logs, and documentation  
@@ -27,6 +28,7 @@ This GitHub portfolio showcases my hands-on expertise in building robust, mainta
 
 
 Each repository contains:
+
 ✔ Test cases and execution scripts
 ✔ Automation framework setup
 ✔ Reports & logs
